@@ -14,7 +14,7 @@
 
             while (true)
             {
-                Console.WriteLine("\nLeave Management System");
+                Console.WriteLine("\nLEAVE");
                 Console.WriteLine("1. Sick Leave");
                 Console.WriteLine("2. Vacation Leave");
                 Console.WriteLine("3. Personal Leave");
